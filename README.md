@@ -1,4 +1,4 @@
-# 🎉🚀🔥 **CODE-WITH-STREAMLIT** 🔥🚀🎉
+# 🚀🔥 **CODE-WITH-STREAMLIT** 🔥🚀
 
 Welcome to my **Streamlit** playground! 🎉
 
