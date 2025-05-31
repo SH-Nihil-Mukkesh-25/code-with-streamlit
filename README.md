@@ -9,9 +9,15 @@ This repo contains all the code and notes from my personal journey learning Stre
 ## What’s inside?
 
 - Streamlit tutorial code snippets  
-- Step-by-step notes typed during tutorials  
-- Sample mini-apps and experiments  
+- Step-by-step notes typed during tutorials    
 - Tips and tricks for building interactive data apps  
+
+---
+
+## What's Coming?
+
+- Streamlit Based Projects
+- Sample mini-apps and experiments
 
 ---
 
